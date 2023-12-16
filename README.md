@@ -26,5 +26,15 @@
 - ⚡ Fun fact **funny and ambitious**
 
 <h1>MY BADGES</h1>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif"/>
+    </td>
+    <td>
+      <img src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif"/>
+    </td>
+  </tr>
+</table>
+
 
