@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **funny and ambitious**
 
-<h1>MY BADGES ⭐</h1>
+<h1>MY BADGES 💫</h1>
 <table>
   <tr>
     <td>
