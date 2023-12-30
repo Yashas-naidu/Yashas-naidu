@@ -37,15 +37,15 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
 <h1>MY BADGES 💫</h1>
 <table cellpadding=1 cellspacing=1>
   <tr>
-    <td align="centre">
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif"/>
     </td>
-    <td align="centre">
+    <td align="center">
       <img src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif"/>
     </td>
   </tr>
   <tr>
-    <td align="centre">
+    <td align="center">
       <img src="https://developers.google.com/static/profile/badges/events/firebase/2023/firebase-demo-day/badge.svg"/>
     </td>
     </tr>
