@@ -29,12 +29,14 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
 ![](https://github-contributor-stats.vercel.app/api?username=Yashas-naidu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 700px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=Yashas-naidu&icon=5&color=6)](https://visitcount.itsvg.in)
 
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YashasNaidu300) 
+
 
   
 
@@ -49,12 +51,10 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     <td align="center">
       <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img style="height: 100px;" src="https://developers.google.com/static/profile/badges/events/firebase/2023/firebase-demo-day/badge.svg"/>
     </td>
-    </tr>
+  </tr>
 </table>
 
 </div>
