@@ -52,6 +52,9 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
       <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif"/>
     </td>
     <td align="center">
+      <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif"/>
+    </td>
+    <td align="center">
       <img style="height: 100px;" src="https://developers.google.com/static/profile/badges/events/firebase/2023/firebase-demo-day/badge.svg"/>
     </td>
   </tr>
