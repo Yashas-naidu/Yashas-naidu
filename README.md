@@ -4,6 +4,7 @@
 # 💫 About Me:
 Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous journey of learning and exploration. Currently focused on Cloud,Web & ML. Let's connect and chat about our coding adventures! 🚀
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashas-naidu&bg_color=ffffff&color=000000&line=0000ff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YashasNaidu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashas_naidu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashasHG) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yashashsn) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jumpy_Weather_2944) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Yashas_H_G) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yashas_Hassan) 
