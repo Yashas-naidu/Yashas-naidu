@@ -57,6 +57,12 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     <td align="center">
       <img style="height: 100px;" src="https://developers.google.com/static/profile/badges/events/firebase/2023/firebase-demo-day/badge.svg"/>
     </td>
+    <td align="center">
+      <img style="height: 100px;" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+    </td>
+    <td align="center">
+      <img style="height: 100px;" src="https://www.kaggle.com/static/images/tiers/novice@192.png"/>
+    </td>
   </tr>
 </table>
 
