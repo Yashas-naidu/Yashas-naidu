@@ -4,6 +4,7 @@
 # 💫 About Me:
 Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous journey of learning and exploration. Currently focused on Cloud,Web & ML. Let's connect and chat about our coding adventures! 🚀
 
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashas-naidu&bg_color=ffffff&color=000000&line=0000ff&point=000000&area=true&hide_border=true)
 
 ## 🌐 Socials:
