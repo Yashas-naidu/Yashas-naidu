@@ -69,6 +69,11 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
       <img style="height: 100px;" src="https://www.kaggle.com/static/images/tiers/novice@192.png"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img style="height: 100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"/>
+    </td>
+  </tr>
 </table>
 
 </div>
