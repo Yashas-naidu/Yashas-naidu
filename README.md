@@ -73,6 +73,9 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     <td>
       <img style="height: 100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"/>
     </td>
+    <td>
+      <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif"/>
+    </td>
   </tr>
 </table>
 
