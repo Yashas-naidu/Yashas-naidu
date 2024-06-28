@@ -59,7 +59,7 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     <td align="center">
       <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif"/>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img style="height: 100px;" src="https://developers.google.com/static/profile/badges/events/firebase/2023/firebase-demo-day/badge.svg"/>
     </td>
     <td align="center">
@@ -67,7 +67,7 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     </td>
     <td align="center">
       <img style="height: 100px;" src="https://www.kaggle.com/static/images/tiers/novice@192.png"/>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td>
