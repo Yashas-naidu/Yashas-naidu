@@ -82,6 +82,11 @@ Hello, I'm Yashas_Naidu, who loves coding and creating. I'm on a continuous jour
     <td>
       <img style="height: 100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"/>
     </td>
+    <tr>
+    <td>
+      <img style="height: 100px;" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif"/>
+    </td>
+  </tr>
   </tr>
 </table>
 
